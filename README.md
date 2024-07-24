@@ -20,4 +20,4 @@ Hello World! I am a first year student at SAIT currently studying Software Devel
 
 ### 📊 Stats
 
-![itsjos3ph's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjos3ph&show_icons=true&theme=gruvbox)
+![itsjos3ph's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjos3ph&show_icons=true&theme=transparent)
