@@ -2,7 +2,7 @@
 
 **`Student (Software Development)`**
 
-Hello World! I am a first year student at SAIT currently studying Software Development. One of my favourite things to do is solve puzzles and because of that, I love programming. I try to come up with my own projects or follow along tutorials to learn and improve my coding/problem solving abilities. 
+Hello World! I am a second year student at SAIT currently studying Software Development. One of my favourite things to do is solve puzzles and because of that, I love programming. I try to come up with my own projects or follow along tutorials to learn and improve my coding/problem solving abilities. 
 
 ---
 
