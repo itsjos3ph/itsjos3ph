@@ -2,7 +2,17 @@
 
 **`Student (Software Development)`**
 
-Hello World! I am a second year student at SAIT currently studying Software Development. One of my favourite things to do is solve puzzles and because of that, I love programming. I try to come up with my own projects or follow along tutorials to learn and improve my coding/problem solving abilities. 
+Hello World! 
+
+I am a second year student at SAIT currently completing my Software Development diploma. One of my favourite things to do is solve puzzles and because of that, I love programming. I try to come up with my own projects or follow along tutorials to learn and improve my coding/problem solving abilities.
+
+---
+
+### 🔗 Connect With Me
+
+# Linkedin: https://www.linkedin.com/in/josephandrewsabo/
+# Email: jsephsabo@gmail.com
+# Portfolio: https://josephsabo.vercel.app/
 
 ---
 
