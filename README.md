@@ -10,9 +10,9 @@ I am a second year student at SAIT currently completing my Software Development 
 
 ### 🔗 Connect With Me
 
-# Linkedin: https://www.linkedin.com/in/josephandrewsabo/
-# Email: jsephsabo@gmail.com
-# Portfolio: https://josephsabo.vercel.app/
+Linkedin: https://www.linkedin.com/in/josephandrewsabo/
+Email: jsephsabo@gmail.com
+Portfolio: https://josephsabo.vercel.app/
 
 ---
 
