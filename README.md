@@ -7,6 +7,7 @@ Hello World!
 I'm a soon-to-be graduate of the Software Development diploma program at SAIT, passionate about solving problems through code. I enjoy debugging, working on personal projects, and tackling programming challenges—anything that lets me exercise my love for puzzles and logical thinking.
 
 I'm especially interested in the fields of cybersecurity and fintech, and I’m always exploring new technologies and building projects to expand my skills. Whether it's diving into full-stack development or learning how systems can be made more secure, I enjoy the constant learning that comes with software development.
+
 ---
 
 ### 🔗 Connect with Me
