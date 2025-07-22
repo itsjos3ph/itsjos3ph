@@ -4,8 +4,9 @@
 
 Hello World! 
 
-I am a second year student at SAIT currently completing my Software Development diploma. One of my favourite things to do is solve puzzles and because of that, I love programming. I try to come up with my own projects or follow along tutorials to learn and improve my coding/problem solving abilities.
+I'm a soon-to-be graduate of the Software Development diploma program at SAIT, passionate about solving problems through code. I enjoy debugging, working on personal projects, and tackling programming challenges—anything that lets me exercise my love for puzzles and logical thinking.
 
+I'm especially interested in the fields of cybersecurity and fintech, and I’m always exploring new technologies and building projects to expand my skills. Whether it's diving into full-stack development or learning how systems can be made more secure, I enjoy the constant learning that comes with software development.
 ---
 
 ### 🔗 Connect with Me
