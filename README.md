@@ -12,7 +12,7 @@ My interests are defensive security and operational reliability. I build lab env
 
 ### 🔗 Connect with Me
 
-**Email:** [jsephsabo@gmail.com](mailto:jsephsabo@gmail.com)  
+**Email:** [josephandrewsabo@gmail.com](mailto:josephandrewsabo@gmail.com)  
 **Portfolio:** [https://josephsabo.vercel.app/](https://josephsabo.vercel.app/)  
 **LinkedIn:** [in/josephandrewsabo/](https://www.linkedin.com/in/josephandrewsabo/)  
 
