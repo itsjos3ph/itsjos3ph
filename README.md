@@ -1,12 +1,12 @@
 # 😎 itsjos3ph
 
-**`Student (Software Development)`**
+**`Graduate (Software Development @ SAIT)`**
 
 Hello World! 
 
-I'm a soon-to-be graduate of the Software Development diploma program at SAIT, passionate about solving problems through code. I enjoy debugging, working on personal projects, and tackling programming challenges—anything that lets me exercise my love for puzzles and logical thinking.
+I’m a graduate of SAIT’s Software Development diploma program with a focus on IT operations and cybersecurity. I work through problems by troubleshooting systems, analyzing failures, and automating repeatable tasks. My work centers on endpoint support, basic networking, identity and access concepts, and security labs with documented outcomes.
 
-I'm especially interested in the fields of cybersecurity and fintech, and I’m always exploring new technologies and building projects to expand my skills. Whether it's diving into full-stack development or learning how systems can be made more secure, I enjoy the constant learning that comes with software development.
+My interests are defensive security and operational reliability. I build lab environments, test controls, analyze logs, and write runbooks to harden systems. The emphasis is practical learning, measurable fixes, and repeatable workflows.
 
 ---
 
